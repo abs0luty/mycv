@@ -1,0 +1,254 @@
+cv:
+  name: Adi Salimgereyev
+  location: Abu Dhabi, UAE
+  email: adisalimgereev@gmail.com
+  phone: +7-700-150-31-81
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: adslmgrv
+    - network: GitHub
+      username: adslmgrv
+  sections:
+    hi!:
+      - "I'm 16 years old international student at MBZUAI. I'm passionate about AI and computer science, and I have a strong background in mathematics. I have been involved in various extracurricular activities, including co-founding a research program and participating in international competitions. My goal is to contribute to the field of AI and make a positive impact on society."
+    education:
+      - institution: Muhammed bin Zayed University of Artificial Intelligence
+        area: Artificial Intelligence
+        degree: Bachelor of Science
+        date:
+        start_date: 2025-08
+        end_date: present
+        location: Abu Dhabi, UAE
+        summary:
+          Received full 4-year scholarship (180K$) in university, which is ranked
+          No. 10 globally in AI Research (CSRankings) and has an acceptance rate of 3.7%.
+      - institution: National School of Physics & Math (FIZMAT)
+        area: Secondary Education
+        degree: Diploma
+        date:
+        start_date: 2020-09
+        end_date: 2025-06
+        location: Almaty, Kazakhstan
+        summary: Recieved full 5-year scholarship (20K$) in No. 1 school in the national ranking of math schools.
+        highlights:
+          - 'GPA (unweighed): 5.0/5.0 (top 1% of the class), SAT: 1480/1600, UNT: 128/140'
+          - Captain of Kazakhstan’s national IYNT/IYPT team of 6, which won national qualification rounds and won a bronze medal at IYNT 2024 among teams from 20+ countries.
+          - Silver medalist of National Data Science Olympiad FAIO 2024.
+          - Co-founder of Engineering Club ("Science from Nothing") and Speedcubing Club.
+          - One of the organizers of Citywide Speedcubing Competition based in school.
+          - Mektep Maktanyshy (x3) - "pride of the school", academic excellence award.
+          - Altyn Belgi - "golden badge", national award given for excellent academic performance.
+    experience:
+      - company: STEMulate Research Program
+        position: Co-Founder & Head of Technology
+        date:
+        start_date: 2023-10
+        end_date: present
+        location: Almaty, Kazakhstan
+        summary:
+        highlights:
+          - 'Developing and maintaining website (stemulateprogram.com) featuring an integrated application portal and information about the program with GoDaddy, Supabase, HCaptcha, Vercel, Vite, React.js, Shadcn and Tailwind CSS.'
+          - Managing corporate email, email marketing and automation with FastMail, MailTrap and Mautic.
+          - Receiving and processing applications from 1K+ high school, undergraduate students from 20+ countries (United States, United Kingdom, China, France, Indonesia, etc.).
+          - Cooperating with national leaders like Kapna, 360mentors and OdepLab.
+          - Managing mentors by 10+ PhD holders and current graduate students from top institutions, such as Stanford, Purdue, Georgetown University, University of Edinburgh and UC Berkley.
+      - company: Amazon Web Services (AWS)
+        position: University Engagement Program Participant
+        date:
+        start_date: 2025-05
+        end_date: 2025-06
+        location: Luxembourg (Remote)
+        summary:
+        highlights:
+          - Collaborated within a 5-member team from Kazakhstan in the University Engagement Program, a competitive initiative involving 200+ Amazonians, 130+ teams and universities from 12 countries.
+          - Led the development of ReVibe, an AI-driven solution addressing the complex recovery needs of student athletes using AWS stack.
+          - Designed and implemented a system capable of interpreting varied inputs (workout data, injury profiles, equipment availability, and performance targets) to produce customized, actionable weekly recovery and training plans.
+    skills:
+      - label: Programming
+        details: Python, Rust, Axum, Typescript, React.js, Vite, Tailwind CSS, Shadcn, Supabase, Vercel, HCaptcha, FastMail, MailTrap, Mautic
+      - label: Languages
+        details: 'English (fluent, IELTS: 7.5/9.0), Russian (native)'
+    publications:
+      - title: Study of Dripping Patterns of a Leaky Faucet
+        authors:
+          - Salimgereyev A. A.
+          - Yastremskiy A. M.
+          - 'Academic Advisor: PhD, associate professor. Turekhanova K. M.'
+        url:
+        journal: 'International Conference of students and young scientists "Farabi Alemi"'
+        date: 2025-04
+    # honors:
+    #   - title: 'Altyn Belgi'
+    #     authors:
+    #       - Adi Salimgereyev
+    #     date: 2025-06
+    #     location: Almaty, Kazakhstan
+    #     summary: National award given for excellent academic performance in high school.
+    #   - title: 'Mektep Maktanyshy (x3)'
+    #     authors:
+    #       - Adi Salimgereyev
+    #     date: 2025-06
+    #     location: Almaty, Kazakhstan
+    # extracurricular_activities:
+    #   - bullet: 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'
+    #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
+    # numbered_entries:
+    #   - number: This is a numbered entry.
+    #   - number: This is another numbered entry.
+    #   - number: This is the third numbered entry.
+    # reversed_numbered_entries:
+    #   - reversed_number: This is a reversed numbered entry.
+    #   - reversed_number: This is another reversed numbered entry.
+    #   - reversed_number: This is the third reversed numbered entry.
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: New Computer Modern
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: New Computer Modern
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: New Computer Modern
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: New Computer Modern
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE in AREA*
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-06-29'
+  render_command:
+  bold_keywords: []
